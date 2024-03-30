@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://tm.ibxk.com.br/2022/05/02/02121505592216.jpg"/>
+<img width=100% bottom=50px src=""/>
 <br>
 <br> 
 
