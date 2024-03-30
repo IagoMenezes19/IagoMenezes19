@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://static.wikia.nocookie.net/overtier_br/images/5/55/Dragon_Ball_logo.png/revision/latest/scale-to-width-down/600?cb=20200408214042&path-prefix=pt-br"/>
+<img width=100% bottom=50px src="https://tm.ibxk.com.br/2022/05/02/02121505592216.jpg"/>
 <br>
 <br> 
 
