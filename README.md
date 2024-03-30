@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://sm.ign.com/ign_br/screenshot/default/goku-instinto-superior_qx99.jpg"/>
+<img width=100% bottom=50px src="https://static.wikia.nocookie.net/overtier_br/images/5/55/Dragon_Ball_logo.png/revision/latest/scale-to-width-down/600?cb=20200408214042&path-prefix=pt-br"/>
 <br>
 <br> 
 
