@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://pbs.twimg.com/profile_banners/1268276517399859200/1717540696/1500x500" />
 &nbsp;&nbsp;&nbsp;
 
 
@@ -7,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=48.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=iagomenezes19&theme=radical&mode=weekly" />
-<img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=iagomenezes19&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=iagomenezes19&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
