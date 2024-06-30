@@ -7,7 +7,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=48.5% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=iagomenezes19&theme=radical&mode=weekly" />
-<img width=20% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=iagomenezes19&show_icons=true&theme=radical&layout=compact" />
+<img width=30% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=iagomenezes19&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
